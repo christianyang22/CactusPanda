@@ -1,0 +1,74 @@
+{
+  "user-data": {
+    "password": "PC1LigaFantasy.",
+    "email": "pc1ligafantasy@gmail.com"
+  },
+  "formations": {
+    "free": [
+      "4-4-2",
+      "4-5-1",
+      "4-3-3",
+      "3-4-3",
+      "3-5-2",
+      "5-4-1",
+      "5-3-2"
+    ],
+    "premium": [
+      "4-2-4",
+      "4-6-0",
+      "3-3-4",
+      "3-6-1",
+      "5-5-0"
+    ]
+  },
+  "jornada-data": {
+    "prox-jornada": "Jornada 24",
+    "time-remaining": "Empieza en 7h 34m"
+  },
+  "money-data": {
+    "actual-money": 13960860,
+    "future-money": 13960860,
+    "max-debt": 38037860
+  },
+  "plantilla": {
+    "actual-formation": {
+      "team": {
+        "gk": [
+          56
+        ],
+        "defense": [
+          8952,
+          19977,
+          25872
+        ],
+        "mid": [
+          23173,
+          25867,
+          40093,
+          55484
+        ],
+        "att": [
+          18004,
+          52375,
+          33032
+        ]
+      },
+      "formation": "3-4-3"
+    },
+    "all_player": [
+      56,
+      8952,
+      25872,
+      19977,
+      25867,
+      40093,
+      55484,
+      23173,
+      18004,
+      52375,
+      33032,
+      48657
+    ]
+  },
+  "last-update": "2024-02-09 13:26:11"
+}
